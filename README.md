@@ -12,7 +12,7 @@ Après quelque projet dans chacun de ces langages (pas tous publier sur mon gith
 
 ## 🔭 Je travail actuellement sur ...
 
-Je reprend actuellement un projet de mon BTS [Gestionnaire de recherche de stage](https://github.com/fcarisey/Gestionnaire-recherche-de-stage) en PHP avec mon propre "Framework" [PHP web structure](https://github.com/fcarisey/PHP-web-structure). Un projet que je reproduit en C# WPF [StageTracker](https://github.com/fcarisey/StageTracker/tree/features) - ASP.NET (API) - SQL Server (BDD) - Blazor (Interface web).
+Je reproduit un ancien projet [Gestionnaire de recherche de stage](https://github.com/fcarisey/Gestionnaire-recherche-de-stage), en C# WPF [StageTracker](https://github.com/fcarisey/StageTracker/tree/features) - ASP.NET (API) - SQL Server (BDD) - Blazor (Interface web).
 
 
 ## 🛠 Langages
